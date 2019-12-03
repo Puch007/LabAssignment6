@@ -53,6 +53,8 @@
             <td *ngIf ="!contact.editing">{{contact.email}}</td>
             <td *ngIf ="!contact.editing">{{contact.phone}}</td>
             <td *ngIf ="!contact.editing">
+                <button type="button" class="btn btn-danger contact-button" (click)="deleteContact(i)">X</button>
+
             </td>
 
 
