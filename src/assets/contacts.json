@@ -1,0 +1,29 @@
+[
+{
+    "id": 1,
+    "firstName": "Jose",
+    "lastName": "Hernandez",
+    "email": "Jhernanez@gmail.com",
+    "phone": "(559) 256-659",
+    "editing": false
+},
+{
+    "id": 2,
+    "firstName": "Tina ",
+    "lastName": "Fey",
+    "email": "Tinafee@hotmail.com",
+    "phone": "(559) 888-462",
+    "editing": false
+
+},
+{
+    "id": 3,
+    "firstName": "Morgan",
+    "lastName": "Freeman",
+    "email": "Mfreeman@yahoo.com",
+    "phone": "(559) 234-723",
+    "editing": false
+
+}
+
+]
